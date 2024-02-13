@@ -24,5 +24,5 @@ Need help building your community or custom bot? You can [contact](https://disco
 ![Snake](https://github.com/iTzArshia/iTzArshia/blob/output/github-contribution-grid-snake-dark.svg)
 #
 [![Paining Community Discord](https://badgen.net/discord/members/ZUKDtNNz3m)](https://discord.gg/ZUKDtNNz3m)
-[![Pouyan Development Discord](https://badgen.net/discord/members/)](https://discord.gg/nKrBshQvcK)<br>
+[![Pouyan Development Discord](https://badgen.net/discord/members/)](https://discord.gg/mSe8DqK68V)<br>
 <img src="https://komarev.com/ghpvc/?username=XPouyan&color=brightgreen" alt="watching_count" />
