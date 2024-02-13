@@ -20,7 +20,6 @@ Need help building your community or custom bot? You can [contact](https://disco
 # 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=XPouyan&count_private=true&show_icons=true&title_color=57cdf1&text_color=ffffff&icon_color=57cdf1&border_color=0d1117&bg_color=0d1117)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=XPouyan&background=0d1117&border=0d1117&stroke=57cdf1&ring=57cdf1&fire=57cdf1&currStreakNum=57cdf1&sideNums=57cdf1&currStreakLabel=57cdf1&sideLabels=57cdf1&dates=ffffff)
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=XPouyan&theme=react-dark&hide_border=true&area=true)
 #
 ![Snake](https://github.com/iTzArshia/iTzArshia/blob/output/github-contribution-grid-snake-dark.svg)
 #
