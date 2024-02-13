@@ -16,7 +16,7 @@ Need help building your community or custom bot? You can [contact](https://disco
 - I enjoy building, managing and moderating communities and help others to do it too.
 
 ### My Skills and Tools & Software I Use
-![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,vscodecloudflare,discord,github,git)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,vscode,cloudflare,discord,github,git)
 # 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=XPouyan&count_private=true&show_icons=true&title_color=57cdf1&text_color=ffffff&icon_color=57cdf1&border_color=0d1117&bg_color=0d1117)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=XPouyan&background=0d1117&border=0d1117&stroke=57cdf1&ring=57cdf1&fire=57cdf1&currStreakNum=57cdf1&sideNums=57cdf1&currStreakLabel=57cdf1&sideLabels=57cdf1&dates=ffffff)
