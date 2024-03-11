@@ -1,6 +1,6 @@
-<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&size=35&duration=3000&pause=1000&color=A4E3F8&center=true&vCenter=true&width=1000&height=40&lines=Hi%2C+I'm+Pouyan;a+Discord+Bot+Developer+and+Server+Architect;I+love+creating+and+coding+cool+stuff;Also%2C+I'm+interested+in+managing+communities;Welcome+to+my+GitHub+profile!" alt="Typing SVG" /></h1>
+<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&size=35&duration=3000&pause=1000&color=A4E3F8&center=true&vCenter=true&width=1000&height=40&lines=Hi%2C+I'm+AchaemenidBoy;a+Discord+Bot+Developer+and+Server+Architect;I+love+creating+and+coding+cool+stuff;Also%2C+I'm+interested+in+managing+communities;Welcome+to+my+GitHub+profile!" alt="Typing SVG" /></h1>
 
-I'm Arshia, an 13 year old developer from Iran that goes by "XPouyan" on media.
+I'm AchaemenidBoy, an 13 year old developer from Iran that goes by "XPouyan" on media.
 
 I joined Discord 4 years ago and soon got interested in creating servers, coding bots, managing communities, designing stuff and even made my community, iTz club, where I spend most of my time. After Paining Community I created a Discord bot called POPO, multipurpose bot that's been added to more than 2,500 servers with unique commands that'd help you to moderate and manage your server/community in a better way.
 
