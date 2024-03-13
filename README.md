@@ -19,7 +19,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=AchaemenidBoyDev&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AchaemenidBoyDev&icon=0&color=3)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=AchaemenidBoyDev&label=Profile%20Views&color=4&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
   ## 💰 Help Me By Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://reymit.ir/achaemenidboy) 
