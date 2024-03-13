@@ -1,29 +1,28 @@
-<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&size=35&duration=3000&pause=1000&color=A4E3F8&center=true&vCenter=true&width=1000&height=40&lines=Hi%2C+I'm+AchaemenidBoy;a+Discord+Bot+Developer+and+Server+Architect;I+love+creating+and+coding+cool+stuff;Also%2C+I'm+interested+in+managing+communities;Welcome+to+my+GitHub+profile!" alt="Typing SVG" /></h1>
+# 💫 About Me:
+🔭 I’m currently working on Phoenix Client<br>👯 I’m looking to collaborate on Phoenix Client<br>🤝 I’m looking for help with Phoenix Client<br>🌱 I’m currently learning Phoenix Client<br>💬 Ask me about Phoenix Client<br>⚡ Fun fact Phoenix Client
 
-I'm AchaemenidBoy, an 13 year old developer from Iran that goes by "XPouyan" on media.
 
-I joined Discord 4 years ago and soon got interested in creating servers, coding bots, managing communities, designing stuff and even made my community, iTz club, where I spend most of my time. After Paining Community I created a Discord bot called POPO, multipurpose bot that's been added to more than 2,500 servers with unique commands that'd help you to moderate and manage your server/community in a better way.
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/1173628987650605179)
 
-I have had over 5 projects! I've also worked with a lot of big servers and content creators, helping them to broaden and manage their communities on Discord.
+# 💻 Tech Stack:
+![Tech Stack](https://skillicons.dev/icons?i=js,html,css,nodejs,bootstrap,vscode,mongodb,postgres,cloudflare,discord,github,git)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AchaemenidBoyDev&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AchaemenidBoyDev&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AchaemenidBoyDev&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-Need help building your community or custom bot? You can [contact](https://discord.com/channels/@me/1173628987650605179) me on Discord!
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AchaemenidBoyDev&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-## What I'm Doing
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=AchaemenidBoyDev&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### Bots
-- Creating high-quality Discord bots at a professional level, with lots of features for all purposes.
-### Servers
-- I enjoy building, managing and moderating communities and help others to do it too.
+---
+[![](https://visitcount.itsvg.in/api?id=AchaemenidBoyDev&icon=0&color=3)](https://visitcount.itsvg.in)
 
-### My Skills and Tools & Software I Use
-![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,vscode,cloudflare,discord,github,git)
-# 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=XPouyan&count_private=true&show_icons=true&title_color=57cdf1&text_color=ffffff&icon_color=57cdf1&border_color=0d1117&bg_color=0d1117)
-![GitHub Streak](https://streak-stats.demolab.com/?user=XPouyan&background=0d1117&border=0d1117&stroke=57cdf1&ring=57cdf1&fire=57cdf1&currStreakNum=57cdf1&sideNums=57cdf1&currStreakLabel=57cdf1&sideLabels=57cdf1&dates=ffffff)
-[![XPouyan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=XPouyan&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-#
-![Snake](https://github.com/iTzArshia/iTzArshia/blob/output/github-contribution-grid-snake-dark.svg)
-#
-[![Paining Community Discord](https://badgen.net/discord/members/ZUKDtNNz3m)](https://discord.gg/ZUKDtNNz3m)
-[![Pouyan Development Discord](https://badgen.net/discord/members/mSe8DqK68V)](https://discord.gg/mSe8DqK68V)<br>
-<img src="https://komarev.com/ghpvc/?username=XPouyan&color=brightgreen" alt="watching_count" />
+  ## 💰 Help Me By Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://reymit.ir/achaemenidboy) 
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
