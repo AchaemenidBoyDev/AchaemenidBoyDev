@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Phoenix Client<br>👯 I’m looking to collaborate on Phoenix Client<br>🤝 I’m looking for help with Phoenix Client<br>🌱 I’m currently learning Phoenix Client<br>💬 Ask me about Phoenix Client<br>⚡ Fun fact Phoenix Client
+🔭 I’m currently working on Fox Client<br>👯 Im Developing POPO Music Bot Together Fox Client<br>🍵 Some Times I Don't Sleep Until Morning For Working On Projects
 
 
 ## 🌐 Socials:
